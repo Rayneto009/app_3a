@@ -1,7 +1,5 @@
 # 📌 Nome do Projeto
 
-<!-- Substitua a URL abaixo pela imagem/captura de tela do seu projeto -->
-![Imagem do Projeto](https://via.placeholder.com/800x400?text=Imagem+do+Projeto)
 
 ## 📖 Sobre
 
